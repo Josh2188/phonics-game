@@ -1,16 +1,11 @@
-# React + Vite
+# 🚪 哆啦A夢：自然發音特訓 v6.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+這是一個專為國小孩子設計的英文自然發音（Phonics）特訓遊戲，包含從基礎短母音到進階複雜母音共 100 級的闖關挑戰。
 
-Currently, two official plugins are available:
+## 🚀 遊戲網址
+[點這裡開始特訓](https://Josh2188.github.io/phonics-game/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ 開發與部署指令
+如果未來要修改程式碼，請在終端機輸入：
+- 開啟本地測試：`npm run dev`
+- 發布更新到網頁：`npm run deploy`

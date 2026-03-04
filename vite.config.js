@@ -1,12 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(),
-  ],
-  base: '/doraemon-math/', 
+  plugins: [react()],
+  base: '/phonics-game/', // 這是讓白畫面恢復正常的關鍵
 })

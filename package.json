@@ -1,5 +1,7 @@
+
 {
-  "name": "doraemon-math",
+"name": "phonics-game",
+  "homepage": "https://Josh2188.github.io/phonics-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
